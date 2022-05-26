@@ -1,0 +1,213 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1415; Version 2009; 64bit' Language: 'ko' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/EngineProject2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64581
+Successfully changed project path to: F:/EngineProject2
+F:/EngineProject2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path F:/Unity/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/EngineProject2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'F:/Unity/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001283 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.378 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.150 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 2.558900 ms (FindLiveObjects: 0.193600 ms CreateObjectMapping: 0.064000 ms MarkObjects: 2.188700 ms  DeleteObjects: 0.111700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(260bcfe2a0bb31e43b9f1bda57ca71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(260bcfe2a0bb31e43b9f1bda57ca71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee22f0256cf7e8ac28f2fa86f676c98d') in 0.028635 seconds
+  Import took 0.031431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.764115 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_FBX.fbx
+  artifactKey: Guid(4b2b81e7f27ec37418a99c591212245d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_FBX.fbx using Guid(4b2b81e7f27ec37418a99c591212245d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a18455f698727aa640941ce698313e') in 0.400747 seconds
+  Import took 0.403681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Red.mat
+  artifactKey: Guid(72bcee339808e42418cd87c782e2038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Red.mat using Guid(72bcee339808e42418cd87c782e2038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8092350c252dfbe14c206816642cd59d') in 0.525180 seconds
+  Import took 0.527925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Purple.mat
+  artifactKey: Guid(a0fc8f3d94fe3e04abf47472225cfafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Purple.mat using Guid(a0fc8f3d94fe3e04abf47472225cfafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23e502c9d92e4ae68e6cc84425d05c7') in 0.409562 seconds
+  Import took 0.412280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_White.mat
+  artifactKey: Guid(6ad9eaa16c0d35a4baa300d84fb7bd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_White.mat using Guid(6ad9eaa16c0d35a4baa300d84fb7bd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0483faf823bf66f6a067f3072b3c850e') in 0.204882 seconds
+  Import took 0.207604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_FBX.fbx
+  artifactKey: Guid(57e71afe94c8e1e4d9b5a12c31bd1f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_FBX.fbx using Guid(57e71afe94c8e1e4d9b5a12c31bd1f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d676526382514e6f661e327375d0771') in 0.038744 seconds
+  Import took 0.041421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Red.mat
+  artifactKey: Guid(5e852c0c6cb6946449056929e2b7270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Red.mat using Guid(5e852c0c6cb6946449056929e2b7270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbec58c632cdadc5d7939a1a04b578c') in 0.226452 seconds
+  Import took 0.241085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Purple.mat
+  artifactKey: Guid(8046cf35ef91b0e4688574b6e9084f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Purple.mat using Guid(8046cf35ef91b0e4688574b6e9084f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a639918b5a281858eea528c8c920f9a2') in 0.209362 seconds
+  Import took 0.212103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Metallic.png
+  artifactKey: Guid(08f81e4ff84f44542881958500cb3d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Metallic.png using Guid(08f81e4ff84f44542881958500cb3d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eb409d77f8783d381ece9e3d78fe7e') in 0.115781 seconds
+  Import took 0.118571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Green.png
+  artifactKey: Guid(bb22835d9c89c49498d9a532d206789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Green.png using Guid(bb22835d9c89c49498d9a532d206789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3feae16cc95820b7866df1093eedd1c') in 0.098979 seconds
+  Import took 0.101823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Normal.png
+  artifactKey: Guid(e45dc3aed0953cb40bebe77322145f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Normal.png using Guid(e45dc3aed0953cb40bebe77322145f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cc8c2fa9f0f2cece9d2d32fa35873c') in 0.080776 seconds
+  Import took 0.083527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Blue.png
+  artifactKey: Guid(ad2e69bedc30290478791f36117b0861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Blue.png using Guid(ad2e69bedc30290478791f36117b0861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996b582249f11649ad3b0e9b49902a32') in 0.076036 seconds
+  Import took 0.078820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Green.mat
+  artifactKey: Guid(07f19b2562ee57443a704bf6e0a59c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Green.mat using Guid(07f19b2562ee57443a704bf6e0a59c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e301d18f2b44eea1b43b6eddfff182b') in 0.245624 seconds
+  Import took 0.248330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Green.mat
+  artifactKey: Guid(b03e868047761a54a988a324987935c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword12/Sword12_Material_Green.mat using Guid(b03e868047761a54a988a324987935c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6eb646e7bcc0d1d40e2df62264fee8a') in 0.211100 seconds
+  Import took 0.213878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Blue.mat
+  artifactKey: Guid(eb402d4b807ff8f41b678f805af64c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword9/Sword9_Material_Blue.mat using Guid(eb402d4b807ff8f41b678f805af64c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c617d6d0efdd11e01b01072c0155235') in 0.211184 seconds
+  Import took 0.214190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Red.png
+  artifactKey: Guid(f8d895c810582634f9c7b0e36892ef82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Weapons/LowPoly/FreeSwords/Sword3/Textures/Sword3_Albedo_Red.png using Guid(f8d895c810582634f9c7b0e36892ef82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265895c1a29ace3ea813c03b688df643') in 0.083864 seconds
+  Import took 0.086820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.536967 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cac23547d3cf3eb7cce0b81574c74f') in 0.002364 seconds
+  Import took 0.006073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.218149 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64975a8aa3b607c75b408cd665693205') in 0.003498 seconds
+  Import took 0.025068 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
